@@ -2,7 +2,7 @@
 	"source": "UE",
 	"applications": [
 		{
-			"app_key": "application.generated.ue.thefacesweshare-15228867.ue4editor.exe",
+			"app_key": "application.generated.ue.third-person-bp-game-template-15228867.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
 			"action_manifest_path": "C:/Users/eborg/Documents/Unreal Projects/The Faces We Share/TheFacesWeShare/TheFacesWeShare/Config/SteamVRBindings/steamvr_manifest.json",
@@ -10,7 +10,7 @@
 			{
 				"en_us":
 				{
-					"name": "TheFacesWeShare-15228867 [UE Editor]"
+					"name": "Third Person BP Game Template-15228867 [UE Editor]"
 				}
 			}
 		}
