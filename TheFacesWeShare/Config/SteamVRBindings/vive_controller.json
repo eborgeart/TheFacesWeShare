@@ -28,17 +28,6 @@
 							"output": "/actions/main/in/Jump"
 						}
 					}
-				},
-				{
-					"mode": "button",
-					"path": "/user/hand/left/input/grip",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/ResetVR"
-						}
-					}
 				}
 			],
 			"poses": [

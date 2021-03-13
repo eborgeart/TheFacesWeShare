@@ -28,17 +28,6 @@
 							"output": "/actions/main/in/Jump"
 						}
 					}
-				},
-				{
-					"mode": "joystick",
-					"path": "/user/hand/left/input/thumbstick",
-					"inputs":
-					{
-						"click":
-						{
-							"output": "/actions/main/in/ResetVR"
-						}
-					}
 				}
 			],
 			"poses": [
