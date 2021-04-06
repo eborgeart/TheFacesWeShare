@@ -79,3 +79,6 @@ TheFacesWeShare/Intermediate/CachedAssetRegistry.bin
 TheFacesWeShare/Saved/Logs/TheFacesWeShare.log
 TheFacesWeShare/Intermediate/CachedAssetRegistry.bin
 TheFacesWeShare/Saved/Logs/TheFacesWeShare.log
+*.bin
+*.ini
+*.log
